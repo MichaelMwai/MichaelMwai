@@ -9,8 +9,8 @@
         <img src="https://user-images.githubusercontent.com/107857441/208100049-3fdebd9d-a27f-48d7-924a-4faaeceac9d8.jpg" alt="Michael Mwai">
         <h2>About Me</h2>
         <p>
-            Greetings! I am Michael Mwai, a seasoned Code Architect and Fitness Enthusiast. With a proven track record
-            of crafting impeccable digital solutions, my journey blends the finesse of coding with the rigor of fitness.
+            Greetings! I am Michael Mwai, an aspiring Code Architect and seasoned Fitness Enthusiast. I plan to
+            craft impeccable digital solutions, my journey blends the finesse of coding with the rigor of fitness.
         </p>
         <h2>Professional Journey</h2>
         <p>
