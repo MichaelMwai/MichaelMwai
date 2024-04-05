@@ -21,10 +21,10 @@
             <a href="https://github.com/MichaelMwai">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" height="40">
             </a>
-            <a href="https://www.linkedin.com/in/nikxherrera/">
+            <a href="https://www.linkedin.com/in/nikxherrera/](https://www.linkedin.com/in/michael-mwai-6b351216a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhRPjvMzNR865e%2F2kvYdjIw%3D%3D">
               <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40">
             </a>
-            <a href="https://www.instagram.com/nikxherrera/">
+            <a href="https://www.instagram.com/fitnessbymikey/">
               <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40">
             </a>
             <a href="https://twitter.com/fitnessbymikey">
